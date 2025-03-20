@@ -1,0 +1,6 @@
+[submodule "tpch/tpch-kit"]
+	path = tpch/tpch-kit
+	url = https://github.com/gregrahn/tpch-kit.git
+[submodule "tpcds/tpcds-kit"]
+	path = tpcds/tpcds-kit
+	url = git@github.com:gregrahn/tpcds-kit.git
