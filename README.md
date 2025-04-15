@@ -113,7 +113,7 @@ The tpcds-kit repository can be found [here](https://github.com/gregrahn/tpcds-k
 # Ensure required development tools are installed
 sudo apt-get install gcc make flex bison byacc git
 
-# 编译
+# Build the tools for PostgreSQL on Linux
 cd /<repo>/tpcds/tpcds-kit/tools
 make 
 
